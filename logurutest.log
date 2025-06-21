@@ -1,0 +1,5 @@
+2025-06-21 10:28:02.524 PST | INFO     | Line    4 (module1.py): hi from module1.py
+2025-06-21 10:28:49.050 PST | INFO     | Line    4 (module2.py): hi from module2.py
+2025-06-21 10:28:56.886 PST | INFO     | Line    7 (main.py): hi from main.py
+2025-06-21 10:28:56.886 PST | INFO     | Line    4 (module1.py): hi from module1.py
+2025-06-21 10:28:56.886 PST | INFO     | Line    4 (module2.py): hi from module2.py
