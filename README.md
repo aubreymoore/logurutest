@@ -7,7 +7,7 @@ Terminal command:
 uv run main.py
 ```
 
-Note that The following code module1.py and module2.py can be executed indepentently as scripts and they will continue to append messages to logurutest.log.
+Note that module1.py and module2.py can be executed indepentently as scripts and they will continue to append messages to logurutest.log.
 
 Terminal commands:
 ```
